@@ -1,0 +1,93 @@
+# LaTeX files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.fdb_latex.mkiv
+*.fdb_latex.pdf
+*.fls
+*.idx
+*.ind
+*.ist
+*.lof
+*.lot
+*.log
+*.out
+*.run.xml
+*.snm
+*.toc
+*.bcf
+*.vrb
+*.dat
+*.bz2
+
+# Synctex
+*.synctex.gz
+
+# BibTeX
+*.bbl
+*.blg
+
+# Glossaries
+*.glb
+*.glo
+*.gls
+*.ist
+
+# MakeIndex
+*.idx
+*.ind
+*.ilg
+*.imf
+
+# Some editors' backup files
+# Emacs
+.#*
+# Vim
+*.swp
+*.swo
+*.swc
+_.*
+~*
+
+# MiKTeX (Windows)
+.mtd
+
+# Temporary files
+*.tmp
+
+# Output directory (common for some classes)
+output/
+_build/
+
+# Biber
+*.bcf
+
+
+
+### other files
+*.ppt
+*.pptx
+*.docx
+*.doc
+*.xlsx
+*.xls
+
+*.pt
+*.tar
+*.pth.tar
+*.pth
+*.zip
+*.rar
+# Image files (uppercase)
+*.JPG
+*.JPEG
+*.PNG
+*.jpg
+*.jpeg
+*.png
+*.pyc
+*events.out.tfevents.*
+*.json
+*.csv
