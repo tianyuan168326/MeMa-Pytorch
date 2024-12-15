@@ -24,8 +24,8 @@ The code for our baseline medidal DeID model is currently being finalized and wi
 
 ## Citing
 
-If you find this resource valuable for your research or projects, please cite our work:
-
+If you find this resource valuable for your research or projects, please cite our work.
+<!-- 
 ```bibtex
 @inproceedings{tian2025medical,
   title={Medical Manifestation-Aware De-Identification},
@@ -33,4 +33,4 @@ If you find this resource valuable for your research or projects, please cite ou
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2025}
 }
-```
+``` -->
