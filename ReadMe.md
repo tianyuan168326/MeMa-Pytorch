@@ -18,9 +18,6 @@ We have collaborated with expert clinicians to annotate MeMa with both coarse- a
 
 The MeMa dataset can be accessed at [MeMa dataset link](https://pan.baidu.com/s/1lDB44q7Qq0skiWHu6e-V4g?pwd=kn63). Please note that the dataset is undergoing rigorous review and continuous updates to ensure quality and accuracy.
 
-## Medical DeID Model
-
-The code for our baseline medidal DeID model is currently being finalized and will be made available by December 31, 2024.
 
 ## Citing
 
